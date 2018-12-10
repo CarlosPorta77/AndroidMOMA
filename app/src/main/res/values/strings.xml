@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">momart</string>
+    <string name="facebook_app_id">2137142989631734</string>
+    <string name="fb_login_protocol_scheme">fb2137142989631734</string>
+</resources>

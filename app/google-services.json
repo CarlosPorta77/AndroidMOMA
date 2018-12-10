@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "129729904228",
+    "firebase_url": "https://momadigitalhouse.firebaseio.com",
+    "project_id": "momadigitalhouse",
+    "storage_bucket": "momadigitalhouse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129729904228:android:c95a5716c58d97c6",
+        "android_client_info": {
+          "package_name": "innovationlab.cc.momart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129729904228-1rvgp44dofab9d3drt9va9j8t42fsk50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "innovationlab.cc.momart",
+            "certificate_hash": "13213683f8ce8b0c594b71dc0efad7e1b5cb90af"
+          }
+        },
+        {
+          "client_id": "129729904228-jr6oju87qnlei6hcahofdvjfg2kvr9pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6uVdnEK5Tynp_zIpKXsyHVoLDLMFlE7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129729904228-jr6oju87qnlei6hcahofdvjfg2kvr9pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
